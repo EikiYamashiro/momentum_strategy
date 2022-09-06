@@ -11,9 +11,11 @@ Before start, check if you have met the following requirements:
 * `Python` (with `pandas,yfinance and matplotlib`)
 
 
+
 ## 🚀 Installing Momentum Strategy
 
 To install Momentum Strategy, just clone the [repository here](https://github.com/EikiYamashiro/momentum_strategy)
+
 
 
 ## ☕ Using Momentum Strategy
@@ -21,6 +23,7 @@ To install Momentum Strategy, just clone the [repository here](https://github.co
 To run the project, open the terminal in the repository folder and run:
 
 `python ps_iqfc.py`
+
 
 
 ## 📫 Contribute to Momentum Strategy
@@ -34,6 +37,7 @@ To contribute to Momentum Strategy, follow these steps:
 5. Create the pull request.
 
 Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request ).
+
 
 
 ## Explication
